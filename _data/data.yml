@@ -61,77 +61,59 @@ education:
       university: University of Guelph
       time: 2016 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: BSc, Honors, Major in Biochemistry
       university: University of Waterloo
       time: 2010 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 
 experiences:
     - role: Bioinformatician
       time: 2018 - Present
-      company: REW Hancock Lab, University of British Columbia
+      company: REW Hancock Lab, University of British Columbia, Vancouver, BC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Served as lead data analyst on multiple RNA-Seq projects, conducted in bacteria, mouse, and human samples
+          - Managed large quantities of omics data and organized it for archival storage and access
+          - Handled lane design and submission of RNA-Seq samples and worked as primary liaison with the sequencing center
+          - Developed and maintained Shiny apps such as MetaBridge
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Biological Technician
+      time: January 2014 - August 2014; May 2015 - September 2015
+      company: Public Health Agency of Canada, Guelph, ON
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Created publication-worthy reference assemblies of multiple Salmonella genomes from next-generation sequence data using GUI- and command line-based programs
+          - Independently designed new probe and primer sequences for implementation into the next version of a commercially-available molecular serotyping kit
+          - Thoroughly tested three molecular serotyping methods as part of a published study comparing commercially-available kits
+          - Extracted DNA from over 300 Salmonella isolates to be sequenced for use in a published validation study
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Biology Research Technician
+      time: May 2013 - August 2013
+      company: NucroTechnics, Scarborough, ON
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Worked regularly with a variety of coworkers to dose animal specimens with multiple dosing methods such as dermal and intravenous
+          - Independently solved problems as they arose while monitoring animals post-dosing
+          - Prepared tissue samples to be fixed to microscope slides in the histology lab
+          - Gained intimate knowledge of Standard Operating Procedures for clinical testing which furthered my written communication skills
+
+      - role: Great Lakes Research Assistant
+        time: January 2012 - April 2012; September 2012 - December 2012
+        company: Canada Center for Inland Waters, Environment Canada, Burlington, ON
+        details: |
+          - Adapted a published procedure in order to better suit water and sediment samples analyzed in our lab
+          - Performed weekly field work to collect water samples and monitor water quality
+          - Made use of a variety of complex lab equipment such as Flouromax/Auto-Sampler to test collected water samples
+
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: MetaBridge
-        link: "metabridge.org"
+        link: "#"
         tagline: "A Shiny app built to facilitate integration of metabolomics data with other omics data types."
+
 
 publications:
     title: Publications
@@ -140,7 +122,7 @@ publications:
     papers:
       - title: "Multi-Omic Data Integration Allows Baseline Immune Signatures to Predict Hepatitis B Vaccine Response in a Small Cohort"
         link: "#"
-        authors: Casey P. Shannon1, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
+        authors: Casey P. Shannon, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
         conference: Frontiers in Immunology, 2020
 
       - title: "Systems Biology Methods Applied to Blood and Tissue for a Comprehensive Analysis of Immune Response to Hepatitis B Vaccine in Adults"
@@ -183,21 +165,22 @@ publications:
         authors: Catherine Yoshida, Simone Gurnik, Aaminah Ahmad, Travis M. Blimkie, Stephanie A. Murphy, Andrew M. Kropinski, John H.E. Nash
         conference: Journal of Clinical Microbiology
 
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: R
-        level: 98%
+        level: 90%
 
       - name: Shiny
         level: 75%
 
       - name: Unix
-        level: 70%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
