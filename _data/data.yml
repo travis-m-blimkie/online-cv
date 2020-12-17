@@ -139,40 +139,49 @@ publications:
 
     papers:
       - title: "Multi-Omic Data Integration Allows Baseline Immune Signatures to Predict Hepatitis B Vaccine Response in a Small Cohort"
-      - authors: Casey P. Shannon1, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
-      - conference: Frontiers in Immunology, 2020
+        link: "#"
+        authors: Casey P. Shannon1, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
+        conference: Frontiers in Immunology, 2020
 
       - title: "Systems Biology Methods Applied to Blood and Tissue for a Comprehensive Analysis of Immune Response to Hepatitis B Vaccine in Adults"
-      - authors: Rym Ben-Othman, Bing Cai, Aaron C. Liu, Natallia Varankovich, Daniel He, Travis M. Blimkie, Amy H. Lee, Erin E. Gill, Mark Novotny, Brian Aevermann, Sibyl Drissler, Casey P. Shannon, Sarah McCann, Kim Marty, Gordean Bjornson, Rachel D. Edgar, David Tse Shen Lin, Nicole Gladish, Julia Maclsaac, Nelly Amenyogbe, Queenie Chan, Alba Llibre, Joyce Collin, Elise Landais, Khoa Le, Samantha M. Reiss, Wayne C. Koff, Colin Havenar-Daughton, Manraj Heran, Bippan Sangha, David Walt, Mel Krajden, Shane Crotty, Devin Sok, Bryan Briney, Dennis R. Burton, Darragh Duffy, Leonard J. Foster, William W. Mohn, Michael S. Kobor, Scott J. Tebbutt, Ryan R. Brinkman, Richard H. Scheuermann, Robert E. W. Hancock, Tobias R. Kollmann, and Manish Sadarangani
-      - conference: Frontiers in Immunology, 2020
+        link: "#"
+        authors: Rym Ben-Othman, Bing Cai, Aaron C. Liu, Natallia Varankovich, Daniel He, Travis M. Blimkie, Amy H. Lee, Erin E. Gill, Mark Novotny, Brian Aevermann, Sibyl Drissler, Casey P. Shannon, Sarah McCann, Kim Marty, Gordean Bjornson, Rachel D. Edgar, David Tse Shen Lin, Nicole Gladish, Julia Maclsaac, Nelly Amenyogbe, Queenie Chan, Alba Llibre, Joyce Collin, Elise Landais, Khoa Le, Samantha M. Reiss, Wayne C. Koff, Colin Havenar-Daughton, Manraj Heran, Bippan Sangha, David Walt, Mel Krajden, Shane Crotty, Devin Sok, Bryan Briney, Dennis R. Burton, Darragh Duffy, Leonard J. Foster, William W. Mohn, Michael S. Kobor, Scott J. Tebbutt, Ryan R. Brinkman, Richard H. Scheuermann, Robert E. W. Hancock, Tobias R. Kollmann, and Manish Sadarangani
+        conference: Frontiers in Immunology, 2020
 
       - title: "Characterization of immune responses and the lung transcriptome in a murine model of IL-33 challenge"
-      - authors: Hadeesha Piyadasa, Dylan Lloyd, Amy H.Y. Lee, Anthony Altieri, Mahadevappa Hemshekhar, Natasha Osawa, Sujata Basu, Travis Blimkie, Reza Falsafi, Andrew J.Halayko, Robert E.W. Hancock, Neeloffer Mookherjee
-      - conference: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 2020
+        link: "#"
+        authors: Hadeesha Piyadasa, Dylan Lloyd, Amy H.Y. Lee, Anthony Altieri, Mahadevappa Hemshekhar, Natasha Osawa, Sujata Basu, Travis Blimkie, Reza Falsafi, Andrew J.Halayko, Robert E.W. Hancock, Neeloffer Mookherjee
+        conference: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 2020
 
       - title: "The Stringent Stress Response Controls Proteases and Global Regulators under Optimal Growth Conditions in Pseudomonas aeruginosa"
-      - authors: Daniel Pletzer, Travis M Blimkie, Heidi Wolfmeier, Yicong Li, Arjun Baghela, Amy H Y Lee, Reza Falsafi, Robert E W Hancock
-      - conference: mSystems, 2020
+        link: "#"
+        authors: Daniel Pletzer, Travis M Blimkie, Heidi Wolfmeier, Yicong Li, Arjun Baghela, Amy H Y Lee, Reza Falsafi, Robert E W Hancock
+        conference: mSystems, 2020
 
       - title: "Surfing motility is a complex adaptation dependent on the stringent stress response in Pseudomonas aeruginosa LESB58"
-      - authors: Daniel Pletzer, Evelyn Sun, Caleb Ritchie, Lauren Wilkinson, Leo T Liu, Michael J Trimble, Heidi Wolfmeier, Travis M Blimkie, Robert E W Hancock
-      - conference: PLoS Pathogens, 2020
+        link: "#"
+        authors: Daniel Pletzer, Evelyn Sun, Caleb Ritchie, Lauren Wilkinson, Leo T Liu, Michael J Trimble, Heidi Wolfmeier, Travis M Blimkie, Robert E W Hancock
+        conference: PLoS Pathogens, 2020
 
       - title: "MetaBridge: An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping"
-      - authors: Travis Blimkie, Amy H.Y. Lee, Robert E.W. Hancock
-      - conference: Current Protocols in Bioinformatics, 2020
+        link: "#"
+        authors: Travis Blimkie, Amy H.Y. Lee, Robert E.W. Hancock
+        conference: Current Protocols in Bioinformatics, 2020
 
       - title: "Multidrug Adaptive Resistance of Pseudomonas aeruginosa Swarming Cells"
-      - authors: Shannon R. Coleman, Travis Blimkie, Reza Falsafi, Robert E.W. Hancock
-      - conference: Antimicrobial agents and chemotherapy, 2020
+        link: "#"
+        authors: Shannon R. Coleman, Travis Blimkie, Reza Falsafi, Robert E.W. Hancock
+        conference: Antimicrobial agents and chemotherapy, 2020
 
       - title: "Draft whole-genome sequences of 25 Salmonella enterica strains representing 24 serovars"
-      - authors: Catherine Yoshida, Stephanie L. Brumwell, Erika J. Lingohr, Aaminah Ahmad, Travis M. Blimkie, Benjamin A. Kogan, Jessica Pilsworth, Muhammad A. Rehman, Krista L. Schleicher, Jenitta Shanmugaraj, Andrew M. Kropinski, John H.E. Nash
-      - conference: Genome Announcements, 2016
+        link: "#"
+        authors: Catherine Yoshida, Stephanie L. Brumwell, Erika J. Lingohr, Aaminah Ahmad, Travis M. Blimkie, Benjamin A. Kogan, Jessica Pilsworth, Muhammad A. Rehman, Krista L. Schleicher, Jenitta Shanmugaraj, Andrew M. Kropinski, John H.E. Nash
+        conference: Genome Announcements, 2016
 
       - title: "Evaluation of molecular methods for the identification of Salmonella serovars"
-      - authors: Catherine Yoshida, Simone Gurnik, Aaminah Ahmad, Travis M. Blimkie, Stephanie A. Murphy, Andrew M. Kropinski, John H.E. Nash
-      - conference: Journal of Clinical Microbiology
+        link: "#"
+        authors: Catherine Yoshida, Simone Gurnik, Aaminah Ahmad, Travis M. Blimkie, Stephanie A. Murphy, Andrew M. Kropinski, John H.E. Nash
+        conference: Journal of Clinical Microbiology
 
 skills:
     title: Skills &amp; Proficiency
