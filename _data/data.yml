@@ -10,12 +10,11 @@ sidebar:
     # Profile information
     name: Travis Blimkie
     tagline: Data analyst & bioinformatician
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: travisblimkie_profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: travis.m.blimkie@gmail.com
-    website: travis-m-blimkie.github.io/online-cv
-    linkedin: travis-blimkie-b2aa71108
+    linkedin: travis-m-blimkie
     github: travis-m-blimkie
 
     languages:
@@ -27,7 +26,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Guitar
+        - item: Electric guitar
         - item: Hiking & camping
         - item: Baking
         - item: Climbing
@@ -37,150 +36,163 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have performed analyses of large and complex “multi-omic” datasets, working both individually and collaboratively with large teams to analyze data, collate results, and write publications. 
-      Over the past six years I have gained extensive experience with the R language for data analysis, package creation and maintenance, and development and deployment of Shiny-based web applications to self-managed Linux servers.
-      My work and training have given me a deep familiarity with  best practices for data collection, management, and analysis, including storage and organization of large “omic” data sets, and clinical information.
+      Bioinformatician with 8+ years of experience working with genomic, transcriptomic and proteomic datasets.
+      Excellent knowledge of the processing, quality control, and robust statistical analysis of high-dimensional data derived from varied biological sources.
 
-      
+
 education:
     title: Education
     info:
+      - degree: IBM Data Science Specialization
+        university: Coursera
+        time: "2024"
+        details: |
+          Studied core data science concepts and applied to real-world datasets using Python and SQL.
+
       - degree: Masters of Bioinformatics
         university: University of Guelph
         time: 2016 - 2017
         details: |
           Learned core concepts of bioinformatics techniques and tools. Gained hands-on experience with an end-of-year project.
 
-      - degree: BSc, Honors, Major in Biochemistry
+      - degree: BSc, Honours Biochemistry
         university: University of Waterloo
         time: 2010 - 2015
         details: |
           Studied a variety of subjects including organic and inorganic chemistry, cell biology, metabolism, and protein structures and dynamics.
 
-
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Bioinformatician
-        time: 2018 - Present
-        company: REW Hancock Lab, University of British Columbia, Vancouver, BC
+        time: 2014 - Present
+        company: Lee Lab, Simon Fraser University, Burnaby BC
         details: |
-          - Lead  complex and detailed analyses of RNA-Seq and other “omics” data derived from a variety of sources, including in vitro and in vivo human and animal data sets, and bacterial experiments
-          - Worked as part of large, multi-disciplinary groups to analyze omics data, and collate results into publications at high-impact journals
-          - Developed and maintained R/Shiny web applications on self-managed Linux servers, and submitted a package to Bioconductor for use by the scientific community
+          - Led the development of a biomarker panel for the classification of sepsis patients using machine learning models, performing feature selection and integrating high-dimensional molecular data with clinical information
+          - Spearheaded and advised on the analysis of numerous sequencing-based immunology studies within the lab, investigating the biological interaction between the host immune response and bacterial & viral pathogens
+          - Created a reverse vaccinology pipeline to identify candidates for a bacterial vaccine, leveraging large scale publicly available genomic data and utilizing high-performance cloud computing infrastructure
+          - Collaborated with graduate students, post-docs, and research associates on complex data analyses, preparation of manuscripts, and management of code review sessions
+
+      - role: Research Technician
+        time: 2018 - 2024
+        company: Hancock Lab, University of British Columbia, Vancouver BC
+        details: |
+          - Authored or co-authored 21 publications in peer-reviewed journals featuring results from omics data, including robust statistics and communication of findings through clear visualizations
+          - Designed the Bioconductor package pathlinkR, following software engineering best practices and expanding the open-source toolbox for the scientific community
+          - Developed three publicly available Shiny applications and dashboards (ABCindex, Septisearch, and MetaBridge), translating scientific needs into technical requirements and accessible interfaces
+          - Guided training of new hires and co-op students, overseeing their involvement in ongoing projects, supervising data analysis, and preparing for final assessments
+
+      - role: Surveyor
+        time: "2016"
+        company: Canadian Cencus, Statistics Canada, Waterloo ON
+        details: |
+          - Leveraged strong communication and interpersonal skills while conducting 2016 Census to effectively engage with diverse households and confirm accurate data collection
+          - Conducted in-person interviews with residents to collect census data, including demographic information, household composition, and socio-economic indicators
 
       - role: Biological Technician
-        time: 2015 - 2015
-        company: Public Health Agency of Canada, Guelph, ON
+        time: "2015"
+        company: Public Health Agency of Canada, Guelph ON
         details: |
-          - Created publication-worthy reference assemblies of multiple Salmonella genomes from next-generation sequence data using GUI- and command line-based programs
-          - Independently designed new probe and primer sequences for implementation into the next version of a commercially-available molecular serotyping kit
-          - Thoroughly tested three molecular serotyping methods as part of a published study comparing commercially-available kits
-          - Extracted DNA from over 300 Salmonella isolates to be sequenced for use in a published validation study
+          - Assembled Salmonella genomes for inclusion in peer-reviewed journal article
+          - Cultured and performed DNA extractions on 300 Salmonella isolates to generate data for highly-cited publication
 
       - role: Biology Research Technician
-        time: 2013 - 2013
-        company: NucroTechnics, Scarborough, ON
+        time: "2013"
+        company: NucroTechnics, Scarborough ON
         details: |
-          - Worked regularly with a variety of coworkers to dose animal specimens with multiple dosing methods such as dermal and intravenous
-          - Independently solved problems as they arose while monitoring animals post-dosing
-          - Prepared tissue samples to be fixed to microscope slides in the histology lab
-          - Gained intimate knowledge of Standard Operating Procedures for clinical testing which furthered my written communication skills
+          - Led NSERC-funded project to assess suitability and validity of histological staining techniques for implementation throughout facility and reported findings to department supervisor
+          - Implemented GMP- and GLP-compliant Standard Operating Procedures (SOPs) for clinical testing following guidelines set out by Health Canada and FDA
 
-      - role: Great Lakes Research Assistant
+      - role: Research Assistant
         time: 2012 - 2012
-        company: Canada Center for Inland Waters, Environment Canada, Burlington, ON
+        company: Canada Center for Inland Waters, Environment Canada, Burlington ON
         details: |
-          - Adapted a published procedure in order to better suit water and sediment samples analyzed in our lab
-          - Performed weekly field work to collect water samples and monitor water quality
-          - Made use of a variety of complex lab equipment such as Flouromax/Auto-Sampler to test collected water samples
-          
+          - Adapted published protocol for water sample processing and treatment to suit sediment samples collected by lab, ensuring quality and accuracy of all subsequent analyses
+          - Performed regular fieldwork as part of ongoing Environment Canada monitoring of water quality in Great Lakes
 
 projects:
-    title: Projects
-    intro: >
-      I have written or contributed significantly to the following publicly-available Shiny-based web applications:
+    title: R/Shiny Applications
+    assignments:
+      - title: ABCindex
+        link: "abcindex.ca"
+        tagline: "Calculating and visualizing Anti-Biofilm Combination Index to assess drug combinations."
+
     assignments:
       - title: SeptiSearch
         link: "septisearch.ca"
-        tagline: "A Shiny app which organizes molecular signatures of sepsis, and makes the data easily searchable and usable in analyses."
-        
+        tagline: "Organizes molecular signatures of sepsis, and makes the data easily searchable and usable in analyses."
+
       - title: MetaBridge
         link: "metabridge.org"
-        tagline: "A Shiny app built to facilitate integration of metabolomics data with other omics data types."
-
+        tagline: "Facilitates the integration of metabolomics data with other omics data types."
 
 oss:
-    title: OSS Contributions
-    intro: >
-      I have contributed the following package to the Bioconductor software repository for use by the scientific community:
+    title: Software Contributions
+    contributions:
+      - title: rnaseq_pipeline
+        link: github.com/travis-m-blimkie/rnaseq_pipeline
+        tagline: "PEP8 Python program for processing short-read RNA-Seq data"
+
     contributions:
       - title: pathlinkR
         link: bioconductor.org/packages/pathlinkR/
         tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks."
 
 publications:
-    title: Publications
-    intro: |
-      I have co-authored a number of publications in top journals:
+    title: Selected Publications
     papers:
       - title: "Facilitating systems-level analyses of all-cause and Covid-mediated sepsis through SeptiSearch, a manually-curated compendium of dysregulated gene sets"
         link: "#"
         authors: Arjun S. Baghela, Jasmine Tam, Travis M. Blimkie, Bhavjinder K. Dhillon, Robert E.W. Hancock
         conference: Frontiers in Immunology, 2023
-      
+
       - title: "Host Response of Human Epidermis to Methicillin-Resistant Staphylococcus aureus Biofilm Infection and Synthetic Antibiofilm Peptide Treatment"
         link: "#"
         authors: Bing Catherine Wu , Travis M Blimkie, Evan F Haney, Reza Falsafi, Noushin Akhoundsadegh, Robert EW Hancock
         conference: Cells, 2022
-      
+
       - title: "Multi-Omic Data Integration Allows Baseline Immune Signatures to Predict Hepatitis B Vaccine Response in a Small Cohort"
         link: "#"
         authors: Casey P. Shannon, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
         conference: Frontiers in Immunology, 2020
-      
-      - title: "Systems Biology Methods Applied to Blood and Tissue for a Comprehensive Analysis of Immune Response to Hepatitis B Vaccine in Adults"
-        link: "#"
-        authors: Rym Ben-Othman, Bing Cai, Aaron C. Liu, Natallia Varankovich, Daniel He, Travis M. Blimkie, Amy H. Lee, Erin E. Gill, Mark Novotny, Brian Aevermann, Sibyl Drissler, Casey P. Shannon, Sarah McCann, Kim Marty, Gordean Bjornson, Rachel D. Edgar, David Tse Shen Lin, Nicole Gladish, Julia Maclsaac, Nelly Amenyogbe, Queenie Chan, Alba Llibre, Joyce Collin, Elise Landais, Khoa Le, Samantha M. Reiss, Wayne C. Koff, Colin Havenar-Daughton, Manraj Heran, Bippan Sangha, David Walt, Mel Krajden, Shane Crotty, Devin Sok, Bryan Briney, Dennis R. Burton, Darragh Duffy, Leonard J. Foster, William W. Mohn, Michael S. Kobor, Scott J. Tebbutt, Ryan R. Brinkman, Richard H. Scheuermann, Robert E. W. Hancock, Tobias R. Kollmann, and Manish Sadarangani
-        conference: Frontiers in Immunology, 2020
-        
+
       - title: "Characterization of immune responses and the lung transcriptome in a murine model of IL-33 challenge"
         link: "#"
         authors: Hadeesha Piyadasa, Dylan Lloyd, Amy H.Y. Lee, Anthony Altieri, Mahadevappa Hemshekhar, Natasha Osawa, Sujata Basu, Travis Blimkie, Reza Falsafi, Andrew J.Halayko, Robert E.W. Hancock, Neeloffer Mookherjee
         conference: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 2020
-        
+
       - title: "The Stringent Stress Response Controls Proteases and Global Regulators under Optimal Growth Conditions in Pseudomonas aeruginosa"
         link: "#"
         authors: Daniel Pletzer, Travis M Blimkie, Heidi Wolfmeier, Yicong Li, Arjun Baghela, Amy H Y Lee, Reza Falsafi, Robert E W Hancock
         conference: mSystems, 2020
-        
+
       - title: "Surfing motility is a complex adaptation dependent on the stringent stress response in Pseudomonas aeruginosa LESB58"
         link: "#"
         authors: Daniel Pletzer, Evelyn Sun, Caleb Ritchie, Lauren Wilkinson, Leo T Liu, Michael J Trimble, Heidi Wolfmeier, Travis M Blimkie, Robert E W Hancock
         conference: PLoS Pathogens, 2020
-        
+
       - title: "MetaBridge: An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping"
         link: "#"
         authors: Travis Blimkie, Amy H.Y. Lee, Robert E.W. Hancock
         conference: Current Protocols in Bioinformatics, 2020
-        
+
       - title: "Multidrug Adaptive Resistance of Pseudomonas aeruginosa Swarming Cells"
         link: "#"
         authors: Shannon R. Coleman, Travis Blimkie, Reza Falsafi, Robert E.W. Hancock
         conference: Antimicrobial agents and chemotherapy, 2020
-        
+
       - title: "Draft whole-genome sequences of 25 Salmonella enterica strains representing 24 serovars"
         link: "#"
         authors: Catherine Yoshida, Stephanie L. Brumwell, Erika J. Lingohr, Aaminah Ahmad, Travis M. Blimkie, Benjamin A. Kogan, Jessica Pilsworth, Muhammad A. Rehman, Krista L. Schleicher, Jenitta Shanmugaraj, Andrew M. Kropinski, John H.E. Nash
         conference: Genome Announcements, 2016
-        
+
       - title: "Evaluation of molecular methods for the identification of Salmonella serovars"
         link: "#"
         authors: Catherine Yoshida, Simone Gurnik, Aaminah Ahmad, Travis M. Blimkie, Stephanie A. Murphy, Andrew M. Kropinski, John H.E. Nash
         conference: Journal of Clinical Microbiology
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Languages &amp; Skills
 
     toolset:
       - name: R
@@ -189,14 +201,17 @@ skills:
       - name: Shiny
         level: 80%
 
-      - name: Git/GitHub
+      - name: Git/Github
         level: 80%
 
       - name: Linux/bash
-        level: 75%
+        level: 80%
 
       - name: HTML, CSS, and Bootstrap
         level: 70%
 
+      - name: Python
+        level: 67%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    2026. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
