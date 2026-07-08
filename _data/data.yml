@@ -41,12 +41,6 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: IBM Data Science Specialization
-        university: Coursera
-        time: "2024"
-        details: |
-          Studied core data science concepts and applied to real-world datasets using Python and SQL.
-
       - degree: Masters of Bioinformatics
         university: University of Guelph
         time: 2016 - 2017
@@ -107,6 +101,17 @@ experiences:
         details: |
           - Adapted published protocol for water sample processing and treatment to suit sediment samples collected by lab, ensuring quality and accuracy of all subsequent analyses
           - Performed regular fieldwork as part of ongoing Environment Canada monitoring of water quality in Great Lakes
+
+certifications:
+  title: Certifications
+  list:
+  - name: IBM Data Science Specialization
+    time: 2024
+    organization: Coursera
+    credentialurl: "https://coursera.org"
+    credentialname: Coursera
+    details: |
+      Studied core data science concepts and applied to real-world datasets using Python and SQL.
 
 projects:
     title: R/Shiny Applications
@@ -186,10 +191,10 @@ skills:
     title: Languages &amp; Skills
     toolset:
       - name: R
-        level: 90%
+        level: 98%
 
       - name: Shiny
-        level: 80%
+        level: 90%
 
       - name: Git/Github
         level: 80%
@@ -201,7 +206,7 @@ skills:
         level: 70%
 
       - name: Python
-        level: 67%
+        level: 70%
 
 footer: >
-    2026. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    2026. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
