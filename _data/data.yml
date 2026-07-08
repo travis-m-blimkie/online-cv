@@ -109,7 +109,7 @@ certifications:
     start: 2024
     organization: Coursera
     credentialurl: www.coursera.org
-    credentialname: Coursera
+    credentialname: coursera.org
     details: |
       Studied core data science concepts and applied to real-world datasets using Python and SQL.
 
