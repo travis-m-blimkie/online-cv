@@ -108,18 +108,6 @@ experiences:
           - Adapted published protocol for water sample processing and treatment to suit sediment samples collected by lab, ensuring quality and accuracy of all subsequent analyses
           - Performed regular fieldwork as part of ongoing Environment Canada monitoring of water quality in Great Lakes
 
-oss:
-    title: Software Contributions
-    contributions:
-      - title: rnaseq_pipeline
-        link: github.com/travis-m-blimkie/rnaseq_pipeline
-        tagline: "PEP8 Python program for processing short-read RNA-Seq data"
-
-    contributions:
-      - title: pathlinkR
-        link: bioconductor.org/packages/pathlinkR/
-        tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks"
-
 projects:
     title: R/Shiny Applications
     assignments:
@@ -134,6 +122,17 @@ projects:
       - title: MetaBridge
         link: "metabridge.org"
         tagline: "Facilitates the integration of metabolomics data with other omics data types."
+
+oss:
+    title: Software Contributions
+    contributions:
+      - title: rnaseq_pipeline
+        link: github.com/travis-m-blimkie/rnaseq_pipeline
+        tagline: "PEP8 Python program for processing short-read RNA-Seq data"
+
+      - title: pathlinkR
+        link: bioconductor.org/packages/pathlinkR/
+        tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks"
 
 publications:
     title: Selected Publications
@@ -179,7 +178,7 @@ publications:
         conference: Current Protocols in Bioinformatics, 2020
 
       - title: "Multidrug Adaptive Resistance of Pseudomonas aeruginosa Swarming Cells"
-        link: "https://doi.org/10.1128/aac.01999-19
+        link: "https://doi.org/10.1128/aac.01999-19"
         authors: Shannon R Coleman, Travis M Blimkie, Reza Falsafi, Robert EW Hancock
         conference: Antimicrobial agents and chemotherapy, 2020
 
