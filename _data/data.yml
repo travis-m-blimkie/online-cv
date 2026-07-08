@@ -127,11 +127,11 @@ oss:
     title: Software Contributions
     contributions:
       - title: rnaseq_pipeline
-        link: github.com/travis-m-blimkie/rnaseq_pipeline
+        link: "github.com/travis-m-blimkie/rnaseq_pipeline"
         tagline: "PEP8 Python program for processing short-read RNA-Seq data"
 
       - title: pathlinkR
-        link: bioconductor.org/packages/pathlinkR/
+        link: "bioconductor.org/packages/pathlinkR/"
         tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks"
 
 publications:
