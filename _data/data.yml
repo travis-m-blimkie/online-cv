@@ -143,17 +143,18 @@ oss:
     contributions:
       - title: rnaseq_pipeline
         link: "https://github.com/travis-m-blimkie/rnaseq_pipeline"
-        tagline: "PEP8 Python program for processing short-read RNA-Seq data"
+        tagline: "PEP8 Python program for processing short-read RNA-Seq data."
 
       - title: pathlinkR
         link: "https://bioconductor.org/packages/pathlinkR/"
-        tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks"
+        tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks."
 
 publications:
     title: Selected Publications
     papers:
       - title: "Population-specific heterogeneity in ontogeny of the broadly-conserved blood transcriptional program during the first week of life"
         link: "https://doi.org/10.1038/s41467-026-73244-4"
+        time: 2026
         authors: Bhavjinder K Dhillon, Travis M Blimkie, Olubukola T Idoko, Rebecca Ford, Asimenia Angelidou, Rym Ben-Othman, Sebastiano Montante, Nelly Amenyogbe, Tida Dibassey, Joann Diray-Arce, Reza Falsafi, Abdulazeez Imam, Kerry McEnaney, Oludare A Odumade, Al Ozonoff, William S Pomat, Peter C Richmond, Kinga K Smolen, Oghenebrume Wariri, Ofer Levy, Anita HJ van den Biggelaar, Beate Kampmann, Tobias R Kollmann, Amy HY Lee, Robert EW Hancock
         conference: Nature Communications
 
@@ -169,7 +170,7 @@ publications:
 
       - title: "Host Response of Human Epidermis to Methicillin-Resistant Staphylococcus aureus Biofilm Infection and Synthetic Antibiofilm Peptide Treatment"
         link: "https://doi.org/10.3390/cells11213459"
-        authors: Bing Catherine Wu , Travis M Blimkie, Evan F Haney, Reza Falsafi, Noushin Akhoundsadegh, Robert EW Hancock
+        authors: Bing Catherine Wu, Travis M Blimkie, Evan F Haney, Reza Falsafi, Noushin Akhoundsadegh, Robert EW Hancock
         conference: Cells, 2022
 
       - title: "A transcriptomic analysis of the effects of macrophage polarization and endotoxin tolerance on the response to Salmonella"
@@ -206,7 +207,7 @@ certifications:
     credentialurl: www.coursera.org
     credentialname: coursera.org
     details: |
-      Studied core data science concepts and applied to real-world datasets using Python and SQL.
+      Studied core data science concepts and applied them to real-world datasets using Python and SQL.
 
 footer: >
     2026. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
