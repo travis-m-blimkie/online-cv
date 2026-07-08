@@ -112,26 +112,26 @@ projects:
     title: R/Shiny Applications
     assignments:
       - title: ABCindex
-        link: "abcindex.ca"
+        link: "https://abcindex.ca"
         tagline: "Calculating and visualizing Anti-Biofilm Combination Index to assess drug combinations."
 
       - title: SeptiSearch
-        link: "septisearch.ca"
+        link: "https://septisearch.ca"
         tagline: "Organizes molecular signatures of sepsis, and makes the data easily searchable and usable in analyses."
 
       - title: MetaBridge
-        link: "metabridge.org"
+        link: "https://metabridge.org"
         tagline: "Facilitates the integration of metabolomics data with other omics data types."
 
 oss:
     title: Software Contributions
     contributions:
       - title: rnaseq_pipeline
-        link: "github.com/travis-m-blimkie/rnaseq_pipeline"
+        link: "https://github.com/travis-m-blimkie/rnaseq_pipeline"
         tagline: "PEP8 Python program for processing short-read RNA-Seq data"
 
       - title: pathlinkR
-        link: "bioconductor.org/packages/pathlinkR/"
+        link: "https://bioconductor.org/packages/pathlinkR/"
         tagline: "Analyze and interpret RNA-Seq results, with tools including pathway enrichment and PPI networks"
 
 publications:
