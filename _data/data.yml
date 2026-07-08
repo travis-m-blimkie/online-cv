@@ -32,12 +32,6 @@ sidebar:
         - item: Climbing
         - item: Snowboarding
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Bioinformatician with 8+ years of experience working with genomic, transcriptomic and proteomic datasets.
-      Excellent knowledge of the processing, quality control, and robust statistical analysis of high-dimensional data derived from varied biological sources.
-
 education:
     title: Education
     info:
@@ -52,6 +46,33 @@ education:
         time: 2010 - 2015
         details: |
           Studied a variety of subjects including organic and inorganic chemistry, cell biology, metabolism, and protein structures and dynamics.
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Bioinformatician with 8+ years of experience working with genomic, transcriptomic and proteomic datasets.
+      Excellent knowledge of the processing, quality control, and robust statistical analysis of high-dimensional data derived from varied biological sources.
+
+skills:
+    title: Languages &amp; Skills
+    toolset:
+      - name: R
+        level: 98%
+
+      - name: Shiny
+        level: 90%
+
+      - name: Git/Github
+        level: 80%
+
+      - name: Linux/bash
+        level: 80%
+
+      - name: Python
+        level: 70%
+
+      - name: HTML, CSS, and Bootstrap
+        level: 70%
 
 experiences:
     title: Work Experience
@@ -102,17 +123,6 @@ experiences:
           - Adapted published protocol for water sample processing and treatment to suit sediment samples collected by lab, ensuring quality and accuracy of all subsequent analyses
           - Performed regular fieldwork as part of ongoing Environment Canada monitoring of water quality in Great Lakes
 
-certifications:
-  title: Certifications
-  list:
-  - name: IBM Data Science Specialization
-    start: 2024
-    organization: Coursera
-    credentialurl: www.coursera.org
-    credentialname: coursera.org
-    details: |
-      Studied core data science concepts and applied to real-world datasets using Python and SQL.
-
 projects:
     title: R/Shiny Applications
     assignments:
@@ -154,7 +164,7 @@ publications:
 
       - title: "Facilitating systems-level analyses of all-cause and Covid-mediated sepsis through SeptiSearch, a manually-curated compendium of dysregulated gene sets"
         link: "https://doi.org/10.3389/fimmu.2023.1135859"
-        authors: Arjun S. Baghela, Jasmine Tam, Travis M. Blimkie, Bhavjinder K. Dhillon, Robert E.W. Hancock
+        authors: Arjun S Baghela, Jasmine Tam, Travis M Blimkie, Bhavjinder K Dhillon, Robert EW Hancock
         conference: Frontiers in Immunology, 2023
 
       - title: "Host Response of Human Epidermis to Methicillin-Resistant Staphylococcus aureus Biofilm Infection and Synthetic Antibiofilm Peptide Treatment"
@@ -169,17 +179,17 @@ publications:
 
       - title: "Multi-Omic Data Integration Allows Baseline Immune Signatures to Predict Hepatitis B Vaccine Response in a Small Cohort"
         link: "https://doi.org/10.3389/fimmu.2020.578801"
-        authors: Casey P. Shannon, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
+        authors: Casey P Shannon, Travis M Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D Edgar, Queenie Chan, Mel Krajden, Leonard J Foster, Michael S Kobor, William W Mohn, Ryan R Brinkman, Kim-Anh Le Cao, Richard H Scheuermann, Scott J Tebbutt, Robert EW Hancock, Wayne C Koff, Tobias R Kollmann, Manish Sadarangani, Amy HY Lee
         conference: Frontiers in Immunology, 2020
 
       - title: "The Stringent Stress Response Controls Proteases and Global Regulators under Optimal Growth Conditions in Pseudomonas aeruginosa"
         link: "https://doi.org/10.1128/msystems.00495-20"
-        authors: Daniel Pletzer, Travis M Blimkie, Heidi Wolfmeier, Yicong Li, Arjun Baghela, Amy H Y Lee, Reza Falsafi, Robert E W Hancock
+        authors: Daniel Pletzer, Travis M Blimkie, Heidi Wolfmeier, Yicong Li, Arjun Baghela, Amy HY Lee, Reza Falsafi, Robert EW Hancock
         conference: mSystems, 2020
 
       - title: "MetaBridge: An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping"
         link: "https://doi.org/10.1002/cpbi.98"
-        authors: Travis Blimkie, Amy HY Lee, Robert EW Hancock
+        authors: Travis M Blimkie, Amy HY Lee, Robert EW Hancock
         conference: Current Protocols in Bioinformatics, 2020
 
       - title: "Multidrug Adaptive Resistance of Pseudomonas aeruginosa Swarming Cells"
@@ -187,26 +197,16 @@ publications:
         authors: Shannon R Coleman, Travis M Blimkie, Reza Falsafi, Robert EW Hancock
         conference: Antimicrobial agents and chemotherapy, 2020
 
-skills:
-    title: Languages &amp; Skills
-    toolset:
-      - name: R
-        level: 98%
-
-      - name: Shiny
-        level: 90%
-
-      - name: Git/Github
-        level: 80%
-
-      - name: Linux/bash
-        level: 80%
-
-      - name: Python
-        level: 70%
-
-      - name: HTML, CSS, and Bootstrap
-        level: 70%
+certifications:
+  title: Certifications
+  list:
+  - name: IBM Data Science Specialization
+    start: 2024
+    organization: Coursera
+    credentialurl: www.coursera.org
+    credentialname: coursera.org
+    details: |
+      Studied core data science concepts and applied to real-world datasets using Python and SQL.
 
 footer: >
     2026. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
