@@ -142,52 +142,52 @@ publications:
     title: Selected Publications
     papers:
       - title: "Facilitating systems-level analyses of all-cause and Covid-mediated sepsis through SeptiSearch, a manually-curated compendium of dysregulated gene sets"
-        link: "#"
+        link: "https://doi.org/10.3389/fimmu.2023.1135859"
         authors: Arjun S. Baghela, Jasmine Tam, Travis M. Blimkie, Bhavjinder K. Dhillon, Robert E.W. Hancock
         conference: Frontiers in Immunology, 2023
 
       - title: "Host Response of Human Epidermis to Methicillin-Resistant Staphylococcus aureus Biofilm Infection and Synthetic Antibiofilm Peptide Treatment"
-        link: "#"
+        link: "https://doi.org/10.3390/cells11213459"
         authors: Bing Catherine Wu , Travis M Blimkie, Evan F Haney, Reza Falsafi, Noushin Akhoundsadegh, Robert EW Hancock
         conference: Cells, 2022
 
       - title: "Multi-Omic Data Integration Allows Baseline Immune Signatures to Predict Hepatitis B Vaccine Response in a Small Cohort"
-        link: "#"
+        link: "https://doi.org/10.3389/fimmu.2020.578801"
         authors: Casey P. Shannon, Travis M. Blimkie, Rym Ben-Othman, Nicole Gladish, Nelly Amenyogbe, Sibyl Drissler, Rachel D. Edgar, Queenie Chan, Mel Krajden, Leonard J. Foster, Michael S. Kobor, William W. Mohn, Ryan R. Brinkman, Kim-Anh Le Cao, Richard H. Scheuermann, Scott J. Tebbutt, Robert E.W. Hancock, Wayne C. Koff, Tobias R. Kollmann, Manish Sadarangani, and Amy Huei-Yi Lee
         conference: Frontiers in Immunology, 2020
 
       - title: "Characterization of immune responses and the lung transcriptome in a murine model of IL-33 challenge"
-        link: "#"
+        link: "https://doi.org/10.1016/j.bbadis.2020.165950"
         authors: Hadeesha Piyadasa, Dylan Lloyd, Amy H.Y. Lee, Anthony Altieri, Mahadevappa Hemshekhar, Natasha Osawa, Sujata Basu, Travis Blimkie, Reza Falsafi, Andrew J.Halayko, Robert E.W. Hancock, Neeloffer Mookherjee
         conference: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 2020
 
       - title: "The Stringent Stress Response Controls Proteases and Global Regulators under Optimal Growth Conditions in Pseudomonas aeruginosa"
-        link: "#"
+        link: "https://doi.org/10.1128/msystems.00495-20"
         authors: Daniel Pletzer, Travis M Blimkie, Heidi Wolfmeier, Yicong Li, Arjun Baghela, Amy H Y Lee, Reza Falsafi, Robert E W Hancock
         conference: mSystems, 2020
 
       - title: "Surfing motility is a complex adaptation dependent on the stringent stress response in Pseudomonas aeruginosa LESB58"
-        link: "#"
+        link: "https://doi.org/10.1371/journal.ppat.1008444"
         authors: Daniel Pletzer, Evelyn Sun, Caleb Ritchie, Lauren Wilkinson, Leo T Liu, Michael J Trimble, Heidi Wolfmeier, Travis M Blimkie, Robert E W Hancock
         conference: PLoS Pathogens, 2020
 
       - title: "MetaBridge: An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping"
-        link: "#"
+        link: "https://doi.org/10.1002/cpbi.98"
         authors: Travis Blimkie, Amy H.Y. Lee, Robert E.W. Hancock
         conference: Current Protocols in Bioinformatics, 2020
 
       - title: "Multidrug Adaptive Resistance of Pseudomonas aeruginosa Swarming Cells"
-        link: "#"
+        link: "https://doi.org/10.1128/aac.01999-19
         authors: Shannon R. Coleman, Travis Blimkie, Reza Falsafi, Robert E.W. Hancock
         conference: Antimicrobial agents and chemotherapy, 2020
 
       - title: "Draft whole-genome sequences of 25 Salmonella enterica strains representing 24 serovars"
-        link: "#"
+        link: "https://doi.org/10.1128/genomeA.01718-15"
         authors: Catherine Yoshida, Stephanie L. Brumwell, Erika J. Lingohr, Aaminah Ahmad, Travis M. Blimkie, Benjamin A. Kogan, Jessica Pilsworth, Muhammad A. Rehman, Krista L. Schleicher, Jenitta Shanmugaraj, Andrew M. Kropinski, John H.E. Nash
         conference: Genome Announcements, 2016
 
       - title: "Evaluation of molecular methods for the identification of Salmonella serovars"
-        link: "#"
+        link: "https://doi.org/10.1128/jcm.00262-16"
         authors: Catherine Yoshida, Simone Gurnik, Aaminah Ahmad, Travis M. Blimkie, Stephanie A. Murphy, Andrew M. Kropinski, John H.E. Nash
         conference: Journal of Clinical Microbiology
 
