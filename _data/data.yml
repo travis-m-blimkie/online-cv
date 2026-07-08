@@ -106,9 +106,9 @@ certifications:
   title: Certifications
   list:
   - name: IBM Data Science Specialization
-    time: 2024
+    start: 2024
     organization: Coursera
-    credentialurl: "https://coursera.org"
+    credentialurl: www.coursera.org
     credentialname: Coursera
     details: |
       Studied core data science concepts and applied to real-world datasets using Python and SQL.
